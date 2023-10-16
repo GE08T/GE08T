@@ -1,16 +1,20 @@
-### Hi there 👋
+<center>
+    <img src="https://media.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif" width="100%" style="border-radius: 15px">
+</center>
+<br>
 
-<!--
-**GE08T/GE08T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi Everyone 🫡, my name is *Galung Erlyan Tama*, i'm a college student, currently i'm interested in *Web Development* and *Data Science*🌐 Especially with languages like *JavaScript, PHP and Python* 📚.
 
-Here are some ideas to get you started:
+<h2>Github Stats</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| <img src="https://github-readme-stats.vercel.app/api?username=GE08T&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" alt="Prakhar's github stats" /> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=GE08T&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true" /> |  <img  width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GE08T&layout=compact" /> |
+| ------------- | ------------- | ------------- |
+
+<h2>Contact Me : </h2>
+<p align="center">
+<a href="https://www.instagram.com/glng.erlyn/"><img src="https://cdn-icons-png.flaticon.com/512/174/174855.png" width="40px" alt="Instagram"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto: galung.erlyan.tama08@gmail.com"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png " width="40px" alt="Email"></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/galung-erlyan-tama-a4b74825b/"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40px" alt="Linkedin"></a>
+</p>
