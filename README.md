@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/v5xYHQh2y8AiQ/giphy.gif" width="100%" style="border-radius: 15px">
 <br>
 
-## Hi Everyone 🫡, my name is *Galung Erlyan Tama*, i'm a college student, currently i'm interested in *Web Development* and *Data Science*🌐 Especially with languages like *JavaScript, PHP and Python* 📚.
+## Hi Everyone 🫡, my name is *Galung Erlyan Tama*, i'm a college student, currently i'm interested in *Web Development* and *Data Science*🌐 Especially with languages like *JavaScript, PHP and Python* 📚
 
 ## Github Stats
 
